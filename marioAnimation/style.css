@@ -29,6 +29,15 @@ body,html {
   height: 30%;
   background-color: seagreen;
 }
+.cris{
+  top: 300px;
+  position: absolute;
+  animation:  drive 6s linear  infinite  both;
+  font-weight: bolder;
+  font-stretch: extra-expanded;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-decoration-color: darkred;
+}
 .road{
   height: 30%;
   background: dimgray;
